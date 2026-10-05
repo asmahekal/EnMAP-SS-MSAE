@@ -1,0 +1,2 @@
+n_seeds,silhouette_mean,silhouette_std,davies_bouldin_mean,davies_bouldin_std,calinski_harabasz_mean,calinski_harabasz_std,pairwise_ARI_mean,pairwise_ARI_std,pairwise_ARI_min,pairwise_ARI_max
+10,0.2364869460463524,0.003940886826088947,1.2975522105973714,0.02951364275699078,2198.1365234375,77.49448843501263,0.5688121914863586,0.18562808632850647,0.2966696619987488,0.8838275671005249

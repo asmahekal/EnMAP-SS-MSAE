@@ -1,0 +1,36 @@
+{
+  "seed": 42,
+  "train_samples": 57600,
+  "eval_samples": 12000,
+  "full_epochs": 25,
+  "ablation_epochs": 12,
+  "batch_size": 512,
+  "latent_dim": 32,
+  "mask_ratio": 0.35,
+  "k_range": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "run_ablation": true,
+  "map_stride": 1,
+  "device": "cuda",
+  "professional_outputs": true,
+  "robustness_seeds": [
+    3,
+    7,
+    11,
+    17,
+    23,
+    31,
+    37,
+    43,
+    53,
+    67
+  ],
+  "bootstrap_replicates": 30
+}

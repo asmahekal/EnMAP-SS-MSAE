@@ -1,0 +1,28 @@
+{
+  "enmap_results_directory": "/kaggle/working/enmap_aamsae_paper/results",
+  "benchmark_results_directory": "/kaggle/working/enmap_aamsae_paper/results/benchmark_validation",
+  "benchmark_primary_metrics": [
+    "ROC-AUC",
+    "PR-AUC"
+  ],
+  "benchmark_secondary_metrics": [
+    "F1@P99",
+    "Precision@P99",
+    "Recall@P99",
+    "FPR@95TPR",
+    "oracle F1 (post-hoc only)"
+  ],
+  "benchmark_protocol": "Unsupervised training; ground truth used only after score generation for evaluation.",
+  "proposed_detector": "Derivative-aware masked spectral autoencoder + fixed rank fusion of reconstruction, latent RX, and local latent contrast.",
+  "fusion_weights": {
+    "reconstruction": 0.3,
+    "latent_rx": 0.45,
+    "local_latent_contrast": 0.25
+  },
+  "random_seeds": [
+    42,
+    123,
+    2026
+  ],
+  "warning": "Do not assign mineral/lithology names to EnMAP spectral units or anomalies without independent geological validation."
+}
