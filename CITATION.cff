@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EnMAP-SS-MSAE: Self-supervised masked spectral autoencoders for label-free spectral-unit mapping and anomaly prioritization in EnMAP imagery"
+authors:
+  - family-names: Hekal
+    given-names: Asmaa A.
+    orcid: "https://orcid.org/0009-0007-7234-4696"
+    affiliation: "Egyptian Chinese University (ECU), Cairo, Egypt"
+  - family-names: Talaat
+    given-names: Fatma M.
+    orcid: "https://orcid.org/0000-0001-6116-2191"
+    affiliation: "Kafrelsheikh University, Egypt"
+version: 1.0.0
+date-released: 2026-10-05
+license: MIT
+keywords: [EnMAP, hyperspectral, anomaly detection, self-supervised learning, masked autoencoder]
