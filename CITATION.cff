@@ -10,7 +10,9 @@ authors:
     given-names: Fatma M.
     orcid: "https://orcid.org/0000-0001-6116-2191"
     affiliation: "Kafrelsheikh University, Egypt"
-version: 1.0.0
-date-released: 2026-10-05
+version: 1.1.0
+doi: 10.5281/zenodo.23157865
+repository-code: "https://github.com/asmahekal/EnMAP-SS-MSAE"
+date-released: 2026-10-21
 license: MIT
 keywords: [EnMAP, hyperspectral, anomaly detection, self-supervised learning, masked autoencoder]
