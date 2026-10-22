@@ -5,7 +5,7 @@
 Code and results for the manuscript:
 
 > **Self-Supervised Masked Spectral Autoencoders for Label-Free Spectral-Unit Mapping and Anomaly Prioritization in EnMAP Imagery, with Multi-Benchmark Validation**
-> Fatma M. Talaat, Asmaa A. Hekal (manuscript under review)
+>  (manuscript under review)
 
 ## Purpose
 
